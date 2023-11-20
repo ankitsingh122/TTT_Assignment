@@ -8,7 +8,7 @@ hosted link of app  -  [https://ttt-assignment-eight.vercel.app/](https://ttt-as
 
 # Abstract
 
-The App isn't developed using Create React App framework. The App is developed from scratch by installing and configuring various packages like parcel, react, react-dom, tailwindcss and postcss. Haven't used Create React App framework because we are developing a small App (profile page) so, our App don't require many packages but Create React App downloads many packages which we do not require in our App.
+The App is developed from scratch by installing and configuring various packages like parcel, react, react-dom, tailwindcss and postcss.
 
 To manage and execute packages in our App, [npm](https://www.npmjs.com/) is used.
 
